@@ -6,5 +6,5 @@ Computer science student, Java Minecraft plguin developer from Ukraine
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitkanikita21&show_icons=true&theme=merko)
 
 ❓ Ask me ❓
-* Discord: [![Discord Badge](https://img.shields.io/badge/-Нитка Никита%236240-blue?style=social&logo=Discord&link=https://discord.com/users/391549863185219585)](https://discord.com/users/391549863185219585)
+* Discord: `Нитка#6240`
 * Email: waleryvvs1@gmail.com
