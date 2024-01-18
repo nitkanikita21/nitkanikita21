@@ -1,4 +1,4 @@
-# Hi there, I'm Valery
+# Hi there, I'm Valerii
 
 📚 Computer science student 
 
