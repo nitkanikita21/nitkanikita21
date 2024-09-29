@@ -1,6 +1,6 @@
 # Hi there, I'm Valerii
 
-📚 Computer science student 
+📚 Computer science junior bachelor
 
 🛠 Java Minecraft developer from Ukraine
 
