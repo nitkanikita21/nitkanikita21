@@ -4,8 +4,6 @@
 
 🛠 Java Minecraft developer from Ukraine
 
-🧱 Currently **Dev Lead** on the **[Craftoriya](https://github.com/Craftoriya)** Minecraft server
-
 ## My skills:
 
 ### Frontend:
